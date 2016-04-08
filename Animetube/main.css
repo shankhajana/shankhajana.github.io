@@ -1,0 +1,39 @@
+
+body{
+
+
+  background: #FFFFFF; /* fallback for old browsers */
+
+}
+div {
+    background: #FFFFFF;
+     border: 0;
+}
+h2 {
+    font-size: 2em;
+    font-family:'Roboto', 'Roboto', sans-serif;
+    color: #2196F3;
+
+
+}
+p {
+
+font-family: 'Nunito', 'Nunito',sans-serif;
+    color: #757575;
+}
+ul {
+    list-style-image: url('img/indicator.png');
+    font-family:'Roboto', 'Roboto', sans-serif;
+    color: #2196F3;
+}
+pre{
+  font-family: 'Nunito', 'Nunito',sans-serif;
+      color: #757575;
+}
+ footer{
+
+
+   background-color:#E91E63;
+   height:50px;
+   color:white;
+ }
