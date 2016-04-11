@@ -33,10 +33,11 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-ol{
- 
- color:#673AB7;
-}
+ li:first-letter { float: left; 
+                   
+                  color: white; 
+                  background: orange; 
+                  line-height: 1.0; }
 li{
  color:#673AB7;
  
