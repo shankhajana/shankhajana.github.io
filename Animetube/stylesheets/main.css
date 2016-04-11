@@ -35,11 +35,5 @@ footer {
 }
  
 ol {
-    counter-reset: i 0;
-}
-ol li:before {
-    content: counter(i);    
-    counter-increment: i;
-    padding-right: 0.5em;
-    color: red;
+     color:#f0f;
 }
