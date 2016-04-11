@@ -33,12 +33,9 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
- li:first-letter { float: left; 
-                   
-                  color: white; 
-                  background: orange; 
-                  line-height: 1.0; }
-li{
- color:#673AB7;
  
-}
+ol { list-style: none; padding-left: 10px; text-indent:0px; margin-left:5px;}
+
+ol li {color:#666;}
+
+ol li:first-letter {color:#69A8DE; padding-right:5px; margin-left:-15px;}
