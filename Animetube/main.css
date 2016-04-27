@@ -38,3 +38,24 @@ pre{
    color:white;
  }
 img {max-width:100%}
+.btn {
+  background: #E91E63;
+  background-image: -webkit-linear-gradient(top, #E91E63, #C2185B);
+  background-image: -moz-linear-gradient(top, #E91E63, #C2185B);
+  background-image: -ms-linear-gradient(top, #E91E63, #C2185B);
+  background-image: -o-linear-gradient(top, #E91E63, #C2185B);
+  background-image: linear-gradient(to bottom, #E91E63, #C2185B);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F44336;
+  text-decoration: none;
+}
