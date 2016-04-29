@@ -154,5 +154,5 @@ img {max-width:100%}
 #cssmenu > ul > li.active > a:after,
 #cssmenu > ul > li:hover > a:after,
 #cssmenu > ul > li > a:hover:after {
-  background: #47c9af;
+  background: #E91E63;
 }
